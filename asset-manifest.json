@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yflix/static/css/main.faa22f05.css",
+    "main.js": "/yflix/static/js/main.11800a57.js",
+    "static/js/787.14e4bc02.chunk.js": "/yflix/static/js/787.14e4bc02.chunk.js",
+    "index.html": "/yflix/index.html",
+    "main.faa22f05.css.map": "/yflix/static/css/main.faa22f05.css.map",
+    "main.11800a57.js.map": "/yflix/static/js/main.11800a57.js.map",
+    "787.14e4bc02.chunk.js.map": "/yflix/static/js/787.14e4bc02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faa22f05.css",
+    "static/js/main.11800a57.js"
+  ]
+}
