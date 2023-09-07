@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yflix/static/css/main.f4a7947b.css",
+    "main.css": "/yflix/static/css/main.3b3c248c.css",
     "main.js": "/yflix/static/js/main.9c01d2c2.js",
     "static/js/787.14e4bc02.chunk.js": "/yflix/static/js/787.14e4bc02.chunk.js",
     "index.html": "/yflix/index.html",
-    "main.f4a7947b.css.map": "/yflix/static/css/main.f4a7947b.css.map",
+    "main.3b3c248c.css.map": "/yflix/static/css/main.3b3c248c.css.map",
     "main.9c01d2c2.js.map": "/yflix/static/js/main.9c01d2c2.js.map",
     "787.14e4bc02.chunk.js.map": "/yflix/static/js/787.14e4bc02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4a7947b.css",
+    "static/css/main.3b3c248c.css",
     "static/js/main.9c01d2c2.js"
   ]
 }
